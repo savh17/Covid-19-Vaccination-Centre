@@ -1,0 +1,49 @@
+#logoArea, #headerBackground {
+    -fx-background-color: #3f0d12,
+            linear-gradient(to left, #3f0d12 0%, #a71d31 74%);
+}
+
+#iit, #vaccine, #header {
+    -fx-text-fill: white;
+}
+
+#vaccinated {
+    -fx-padding: 10px;
+    -fx-background-color: #3f0d12,
+                linear-gradient(to left, #3f0d12 0%, #a71d31 74%);
+    -fx-text-fill: white;
+    -fx-border-radius: 10px;
+}
+
+#title {
+    -fx-text-fill: #7e0f1a;
+}
+
+#clearBtn, #submitBtn {
+    -fx-border-radius: 10px;
+    -fx-transition: 0.5s;
+
+}
+
+#clearBtn {
+    -fx-background-color: #1b7dd8;
+}
+
+#clearBtn:hover {
+    -fx-background-color: #2541B2;
+    -fx-text-fill: white;
+}
+
+#submitBtn {
+    -fx-background-color: #56cc13;
+}
+
+#submitBtn:hover {
+    -fx-background-color: #12a627;
+    -fx-text-fill: white;
+}
+
+#submitBtn:active, #clearBtn:active {
+    -fx-text-fill: white;
+}
+

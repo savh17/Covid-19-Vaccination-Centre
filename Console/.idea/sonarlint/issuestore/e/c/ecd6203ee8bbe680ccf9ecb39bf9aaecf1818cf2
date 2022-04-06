@@ -1,0 +1,44 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ú¡Ø
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Â½‡
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(®¡Á‚ùÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Â½‡
+1
+java:S36266"Remove this redundant jump.(ûÁİ…
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ùÇ€µûÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(÷š¨èûÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(Îñë
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(×êÜç
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ÛáÓ‘
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(®§ÕÕ
+M	java:S106W"9Replace this use of System.out or System.err by a logger.(îÄşi
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(íúèÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(¢€†íıÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(‘õßëùÿÿÿÿ
+h
+java:S3776p"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÀÇã
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¸€¢€úÿÿÿÿ
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(Éä†
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(÷À²È
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ı¤êöıÿÿÿÿ
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(’ôÆà
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(–ÑÃÂ
+N	java:S106¶"9Replace this use of System.out or System.err by a logger.(ú‡
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(Àûå 
+m
+java:S3457Ô"Q%n should be used in place of \n to produce the platform-specific line separator.(Š±ëçúÿÿÿÿ
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(Š±ëçúÿÿÿÿ
+N	java:S106Ù"9Replace this use of System.out or System.err by a logger.(Ú˜z
+T	java:S106Ş"9Replace this use of System.out or System.err by a logger.(ï£ µıÿÿÿÿ
+h
+java:S3457ß"Q%n should be used in place of \n to produce the platform-specific line separator.(æ¨•
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(æ¨•
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(ÑÇŸùøÿÿÿÿ
+]
+java:S1192!"GDefine a constant instead of duplicating this literal "booth " 3 times.(Â½‡
+n	java:S127€"XRefactor the code in order to not assign to this loop counter from within the loop body.(¤ĞÁ»
+Q
+java:S1141£"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§Ú¬ù
+d
+java:S2095©"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Óüü‚úÿÿÿÿ

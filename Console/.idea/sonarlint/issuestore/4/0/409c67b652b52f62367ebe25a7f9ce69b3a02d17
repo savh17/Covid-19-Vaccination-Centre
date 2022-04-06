@@ -1,0 +1,57 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ãÛ©¦ýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ý‹´Ìúÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(³ËÚ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(€Ó¶´
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(³ËÚ
+1
+java:S3626D"Remove this redundant jump.(ûÁÝ…
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ùÇ€µûÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(†«—
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(¿ûŽªÿÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(­Ô«ÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(Äº©À
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÕÃ®»
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(÷‡•øûÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(¡È¿É
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(®§ÕÕ
+`
+java:S1854u">Remove this useless assignment to local variable "newPatient".(Ç¹éµûÿÿÿÿ8˜æêµ­/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡È¿É
+]	java:S125~"<This block of commented-out lines of code should be removed.(È×œìþÿÿÿÿ8™æêµ­/
+W
+java:S1854ˆ";Remove this useless assignment to local variable "patient".(º¢Ÿõùÿÿÿÿ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(÷çôåøÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¢€†íýÿÿÿÿ
+h
+java:S3457’"Q%n should be used in place of \n to produce the platform-specific line separator.(¢‰‚Ù
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(¢‰‚Ù
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(–Ô’ÿÿÿÿÿ
+O	java:S106³"9Replace this use of System.out or System.err by a logger.(Éä†
+W	java:S125Å"<This block of commented-out lines of code should be removed.(ãÛ©¦ýÿÿÿÿ
+O	java:S106Ë"9Replace this use of System.out or System.err by a logger.(Àûå 
+h
+java:S3457Ñ"Q%n should be used in place of \n to produce the platform-specific line separator.(¨ñ§Ï
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(¨ñ§Ï
+N	java:S106Ö"9Replace this use of System.out or System.err by a logger.(Ú˜žz
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(ï£ µýÿÿÿÿ
+g
+java:S3457Ü"Q%n should be used in place of \n to produce the platform-specific line separator.(Á™µ
+N	java:S106Ü"9Replace this use of System.out or System.err by a logger.(Á™µ
+[	java:S106ß"9Replace this use of System.out or System.err by a logger.(ÑÇŸùøÿÿÿÿ8ªÿ½³­/
+Q
+java:S1481u"/Remove this unused "newPatient" local variable.(Ç¹éµûÿÿÿÿ8¤æêµ­/
+H
+java:S1481ˆ",Remove this unused "patient" local variable.(º¢Ÿõùÿÿÿÿ
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃýÿÿÿÿ8¤æêµ­/
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8¤æêµ­/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¤æêµ­/
+]
+java:S1192*"GDefine a constant instead of duplicating this literal "booth " 3 times.(³ËÚ
+s	java:S135P"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+Z
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(œ®šÔùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È°ñ˜

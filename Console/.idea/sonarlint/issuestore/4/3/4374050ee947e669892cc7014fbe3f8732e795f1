@@ -1,0 +1,82 @@
+
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Îñë
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Îñë
+l
+java:S3457F"Q%n should be used in place of \n to produce the platform-specific line separator.(½üßúÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(½üßúÿÿÿÿ
+M	java:S106M"9Replace this use of System.out or System.err by a logger.(ì’”v
+M	java:S106U"9Replace this use of System.out or System.err by a logger.(ì’”v
+l
+java:S3457v"Q%n should be used in place of \n to produce the platform-specific line separator.(¹¸¶èûÿÿÿÿ
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(¹¸¶èûÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(¹¢À‚ıÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(ì€–úÿÿÿÿ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(½ÉŒÄ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(ó¸Ğ£şÿÿÿÿ
+m
+java:S3457•"Q%n should be used in place of \n to produce the platform-specific line separator.(¦Ãİ”ùÿÿÿÿ
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(¦Ãİ”ùÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(·øñû
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Éæ“à
+O	java:S106¡"9Replace this use of System.out or System.err by a logger.(«¹üĞ
+h
+java:S3457´"Q%n should be used in place of \n to produce the platform-specific line separator.(“ÿä½
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(“ÿä½
+i
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(´òÿç
+O	java:S106Ã"9Replace this use of System.out or System.err by a logger.(÷À²È
+O	java:S106ê"9Replace this use of System.out or System.err by a logger.(’ôÆà
+O	java:S106ì"9Replace this use of System.out or System.err by a logger.(–ÑÃÂ
+N	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ú‡
+R
+java:S1854•";Remove this useless assignment to local variable "surname".(Ñ»¯
+Y
+java:S1854”"=Remove this useless assignment to local variable "firstName".(é’¥ùÿÿÿÿ
+Y
+java:S1854˜"BRemove this useless assignment to local variable "passportNumber".(á¥ëÿ
+T
+java:S1854—"8Remove this useless assignment to local variable "city".(ğİ“•ûÿÿÿÿ
+M
+java:S1854–"7Remove this useless assignment to local variable "age".(àÉÿ@
+P
+java:S1854›"9Remove this useless assignment to local variable "booth".(½·Æ†
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(õ‚¤äúÿÿÿÿ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(»ò×
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(Àûå 
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(à¼ë²
+R	java:S125®"<This block of commented-out lines of code should be removed.(Í‚¸„
+N	java:S106Ô"9Replace this use of System.out or System.err by a logger.(ì’”v
+2
+java:S3626ç"Remove this redundant jump.(ûÁİ…
+N	java:S106Û"9Replace this use of System.out or System.err by a logger.(ŞªíD
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(ó¸Ğ£şÿÿÿÿ
+T	java:S106ì"9Replace this use of System.out or System.err by a logger.(ó¸Ğ£şÿÿÿÿ
+h
+java:S3457ù"Q%n should be used in place of \n to produce the platform-specific line separator.(ÒÛšÇ
+O	java:S106ù"9Replace this use of System.out or System.err by a logger.(ÒÛšÇ
+A
+java:S1481›"*Remove this unused "booth" local variable.(½·Æ†
+J
+java:S1481”".Remove this unused "firstName" local variable.(é’¥ùÿÿÿÿ
+C
+java:S1481•",Remove this unused "surname" local variable.(Ñ»¯
+>
+java:S1481–"(Remove this unused "age" local variable.(àÉÿ@
+E
+java:S1481—")Remove this unused "city" local variable.(ğİ“•ûÿÿÿÿ
+J
+java:S1481˜"3Remove this unused "passportNumber" local variable.(á¥ëÿ
+b
+java:S1192"LDefine a constant instead of duplicating this literal "astrazeneca" 3 times.(·øÔï
+D
+java:S1121E".Extract the assignment out of this expression.(Ì­¸…
+Q
+java:S1141æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ÿ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+2
+java:S1643ã"Use a StringBuilder instead.(…¤ÿ(
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È°ñ˜
+_
+java:S2095ç"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(’ëšâ

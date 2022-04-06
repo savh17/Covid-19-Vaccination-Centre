@@ -1,0 +1,61 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Îñë
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(î‡ó©ùÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(×ˆ‘¦
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(€Ó¶´
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(³ËÚ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(³ËÚ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(üª‡üÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(Ùˆ«
+l
+java:S3457a"Q%n should be used in place of \n to produce the platform-specific line separator.(’¸¼ªúÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(’¸¼ªúÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(÷š¨èûÿÿÿÿ
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(¡È¿É
+M	java:S106m"9Replace this use of System.out or System.err by a logger.(Ãı§
+G
+java:S6126m"2Replace this String concatenation with Text block.(Ãı§
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(åÍ‹ì
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(ùÇ´Íüÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÅŞ›ÿÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(³èâò
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(Ùˆ«
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(¢€†íıÿÿÿÿ
+h
+java:S3457™"Q%n should be used in place of \n to produce the platform-specific line separator.(®ŸëÏ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(®ŸëÏ
+2
+java:S3626¦"Remove this redundant jump.(ÉŠ©ƒ
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(’±Éûıÿÿÿÿ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(–Ô’ÿÿÿÿÿ
+O	java:S106Õ"9Replace this use of System.out or System.err by a logger.(“èÌ
+O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ú¿ê
+m
+java:S3457İ"Q%n should be used in place of \n to produce the platform-specific line separator.(ïÊíÖúÿÿÿÿ
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(ïÊíÖúÿÿÿÿ
+N	java:S106á"9Replace this use of System.out or System.err by a logger.(Ú˜z
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(ï£ µıÿÿÿÿ
+m
+java:S3457è"Q%n should be used in place of \n to produce the platform-specific line separator.(»ãæŒşÿÿÿÿ
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(»ãæŒşÿÿÿÿ
+O	java:S106ë"9Replace this use of System.out or System.err by a logger.(í¸â•
+O	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ÎïÑ•
+I
+java:S6126ñ"2Replace this String concatenation with Text block.(ÎïÑ•
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(÷À²È
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(’ôÆà
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(–ÑÃÂ
+N	java:S106°"9Replace this use of System.out or System.err by a logger.(ú‡
+]
+java:S1192D"GDefine a constant instead of duplicating this literal "booth " 3 times.(€Ó¶´
+Q
+java:S1141¢"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+3
+java:S1643¸"Use a StringBuilder instead.(ÂÆàá
+8
+java:S1643»"Use a StringBuilder instead.(ÆÌëêşÿÿÿÿ
+3
+java:S1643½"Use a StringBuilder instead.(­ÊšÜ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÙÔ·
+d
+java:S2095¤"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Õ‰’£ÿÿÿÿÿ

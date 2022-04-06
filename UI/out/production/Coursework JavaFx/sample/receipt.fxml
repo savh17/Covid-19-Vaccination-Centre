@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="479.0" prefWidth="434.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ReceiptController">
+   <children>
+      <Pane fx:id="headerBackground" prefHeight="59.0" prefWidth="434.0">
+         <children>
+            <Label fx:id="header" layoutX="45.0" layoutY="16.0" text="COVID-19 VACCINE RECORD CARD">
+               <font>
+                  <Font size="22.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Label fx:id="dateLabel" layoutX="94.0" layoutY="100.0" text="26/07/2021" />
+      <Label layoutX="92.0" layoutY="169.0" text="NAME :" />
+      <Label fx:id="nameLabel" layoutX="226.0" layoutY="169.0" text="SAVINU HASALANKA" />
+      <Label layoutX="92.0" layoutY="210.0" text="AGE :" />
+      <Label fx:id="ageLabel" layoutX="226.0" layoutY="210.0" text="21 YEARS OLD" />
+      <Label layoutX="92.0" layoutY="249.0" text="PASSPORT NO :" />
+      <Label fx:id="passportNumLabel" layoutX="226.0" layoutY="249.0" text="123456" />
+      <Label layoutX="92.0" layoutY="290.0" text="LIVES IN :" />
+      <Label fx:id="cityLabel" layoutX="226.0" layoutY="290.0" text="MATARA" />
+      <Label layoutX="92.0" layoutY="331.0" text="VACCINE NAME :" />
+      <Label fx:id="vaccineLabel" layoutX="226.0" layoutY="331.0" text="PFIZER" />
+      <Label fx:id="vaccinated" layoutX="127.0" layoutY="400.0" text="VACCINATED">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="44.0" layoutY="100.0" text="DATE :" />
+   </children>
+</Pane>

@@ -1,0 +1,94 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Îñë
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Îñë
+Q	java:S125@"<This block of commented-out lines of code should be removed.(ì«ì¿
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(î‡ó©ùÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(×ˆ‘¦
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(€Ó¶´
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(³ËÚ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(³ËÚ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(Ùˆ«
+l
+java:S3457v"Q%n should be used in place of \n to produce the platform-specific line separator.(Ú¡Œ®ıÿÿÿÿ
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(Ú¡Œ®ıÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(¼ÅŞ›ÿÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(³èâò
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(Ùˆ«
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(¢€†íıÿÿÿÿ
+h
+java:S3457–"Q%n should be used in place of \n to produce the platform-specific line separator.(®ŸëÏ
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(®ŸëÏ
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(’±Éûıÿÿÿÿ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(–Ô’ÿÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(±´¬¥úÿÿÿÿ
+h
+java:S3457Í"Q%n should be used in place of \n to produce the platform-specific line separator.(†Ûœö
+O	java:S106Í"9Replace this use of System.out or System.err by a logger.(†Ûœö
+h
+java:S3457Î"Q%n should be used in place of \n to produce the platform-specific line separator.(Áóü
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(Áóü
+h
+java:S3457Ï"Q%n should be used in place of \n to produce the platform-specific line separator.(ëÌıó
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ëÌıó
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(Ùˆ«
+m
+java:S3457ã"Q%n should be used in place of \n to produce the platform-specific line separator.(îÒ÷ıÿÿÿÿ
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(îÒ÷ıÿÿÿÿ
+i
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ãÙ¿¼
+O	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(‰Œ–í
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(äŸ®
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ç–ùë
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ë€ÆÅÿÿÿÿÿ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(ĞÌÖ§üÿÿÿÿ
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(ˆ ö
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(„ÂŸÑÿÿÿÿÿ
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(¡È¿É
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(Îñë
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(Îñë
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(Îñë
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(´ŠªÂ
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ùÇ´Íüÿÿÿÿ
+N	java:S106é"9Replace this use of System.out or System.err by a logger.(ğ¹éu
+T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(²Æ§üÿÿÿÿ
+O	java:S106õ"9Replace this use of System.out or System.err by a logger.(–ÑÃÂ
+N	java:S106ú"9Replace this use of System.out or System.err by a logger.(ú‡
+N	java:S106“"9Replace this use of System.out or System.err by a logger.(Ú˜z
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(ï£ µıÿÿÿÿ
+m
+java:S3457š"Q%n should be used in place of \n to produce the platform-specific line separator.(ùóªòûÿÿÿÿ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(ùóªòûÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(í¸â•
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(ÎïÑ•
+I
+java:S6126£"2Replace this String concatenation with Text block.(ÎïÑ•
+X
+java:S1192¨"ADefine a constant instead of duplicating this text block 3 times.(Îñë
+b
+java:S1192j"LDefine a constant instead of duplicating this literal "AstraZeneca" 3 times.(ùâ…ğ
+]
+java:S1192R"GDefine a constant instead of duplicating this literal "booth " 3 times.(€Ó¶´
+q
+java:S1192s"[Define a constant instead of duplicating this literal "Returning to main menu ..." 3 times.(Ùˆ«
+]
+java:S1192p"GDefine a constant instead of duplicating this literal "Pfizer" 3 times.(“Òáœ
+e
+java:S1192m"JDefine a constant instead of duplicating this literal "Sinopharm" 3 times.(ôÎûÿÿÿÿ
+t	java:S135†"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+Q
+java:S1141ì"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+3
+java:S1643‡"Use a StringBuilder instead.(­ÊšÜ
+2
+java:S1643Ú"Use a StringBuilder instead.(…¤ÿ(
+2
+java:S1643ü"Use a StringBuilder instead.(…¤ÿ(
+U
+java:S4973¥"9Use the "equals" method if value comparison was intended.(÷Ïè›øÿÿÿÿ
+U
+java:S4973®"9Use the "equals" method if value comparison was intended.(ìå™üÿÿÿÿ
+P
+java:S4973·"9Use the "equals" method if value comparison was intended.(Ïı°Ü
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’Í½Üıÿÿÿÿ
+d
+java:S2095î"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Õ‰’£ÿÿÿÿÿ

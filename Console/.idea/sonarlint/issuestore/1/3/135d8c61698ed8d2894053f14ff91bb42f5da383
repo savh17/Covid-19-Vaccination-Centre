@@ -1,0 +1,53 @@
+
+n
+java:S3008
+"XRename this field "ServiceCenter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤î¨ÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ú¡Ø
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Îñë
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(Ÿ°åª
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(Â½‡
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(úüç§şÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(Â½‡
+1
+java:S3626X"Remove this redundant jump.(ûÁİ…
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ùÇ€µûÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(÷š¨èûÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(Îñë
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(×êÜç
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(ÛáÓ‘
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(®§ÕÕ
+M	java:S106y"9Replace this use of System.out or System.err by a logger.(îÄşi
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(íúèÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(¢€†íıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‘õßëùÿÿÿÿ
+i
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÚÊÒ¹
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(¸€¢€úÿÿÿÿ
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(Éä†
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(÷À²È
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(ı¤êöıÿÿÿÿ
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(’ôÆà
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(–ÑÃÂ
+N	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ú‡
+O	java:S106ğ"9Replace this use of System.out or System.err by a logger.(Àûå 
+m
+java:S3457ö"Q%n should be used in place of \n to produce the platform-specific line separator.(ïÊíÖúÿÿÿÿ
+T	java:S106ö"9Replace this use of System.out or System.err by a logger.(ïÊíÖúÿÿÿÿ
+N	java:S106ú"9Replace this use of System.out or System.err by a logger.(Ú˜z
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ï£ µıÿÿÿÿ
+m
+java:S3457€"Q%n should be used in place of \n to produce the platform-specific line separator.(’˜ÌÖûÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(’˜ÌÖûÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ÑÇŸùøÿÿÿÿ
+c
+java:S1192»"LDefine a constant instead of duplicating this literal "patient.txt" 3 times.(‰ö½÷
+]
+java:S1192C"GDefine a constant instead of duplicating this literal "booth " 3 times.(Â½‡
+D
+java:S1121;".Extract the assignment out of this expression.(Ì­¸…
+s	java:S127¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾ü¯¬ûÿÿÿÿ
+Q
+java:S1141Å"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢şÖ¦øÿÿÿÿ
+d
+java:S2095Ë"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(—Ãœàüÿÿÿÿ

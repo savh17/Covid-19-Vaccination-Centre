@@ -1,0 +1,7 @@
+BoothNumber,FirstName,Surname,Age,City,PassportNo,requestedVaccine
+0,qwe,wq,2,wqw,212,AstraZeneca
+1,NULL,NULL,NULL,NULL,NULL,NULL
+2,depani,atapattu,21,as,212,Sinopharm
+3,savinuu,hsa,12,qw,qwwq,Sinopharm
+4,kk,w,21,qw,21,Pfizer
+5,NULL,NULL,NULL,NULL,NULL,NULL
